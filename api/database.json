@@ -1,0 +1,32 @@
+{
+  "legoCreation": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "creation": "Black Cow"
+    },
+    {
+      "creator": "niall",
+      "color": "",
+      "shape": "",
+      "creation": "",
+      "id": 2
+    },
+    {
+      "creator": "niall",
+      "color": "",
+      "shape": "",
+      "creation": "",
+      "id": 3
+    },
+    {
+      "creator": "ggtrtth",
+      "color": "thtrhtrtrtht",
+      "shape": "tghtrgtrg",
+      "creation": "rhgtrghregrtg",
+      "id": 4
+    }
+  ]
+}
