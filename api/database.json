@@ -27,6 +27,60 @@
       "shape": "tghtrgtrg",
       "creation": "rhgtrghregrtg",
       "id": 4
+    },
+    {
+      "creator": "niall",
+      "color": "3",
+      "shape": "rectangle",
+      "creation": "snowman",
+      "id": 5
+    },
+    {
+      "creator": "test",
+      "color": "1",
+      "shape": "test",
+      "creation": "9:53am",
+      "id": 6
+    },
+    {
+      "creator": "test",
+      "color": "4",
+      "shape": "test",
+      "creation": "9:54am",
+      "id": 7
+    },
+    {
+      "creator": "rgrgrgreg",
+      "color": "1",
+      "shape": "rgregrefeferf",
+      "creation": "10am",
+      "id": 8
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "red"
+    },
+    {
+      "id": 2,
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "name": "yelow"
+    },
+    {
+      "id": 4,
+      "name": "blue"
+    },
+    {
+      "id": 5,
+      "name": "orange"
+    },
+    {
+      "id": 6,
+      "name": "black"
     }
   ]
 }
